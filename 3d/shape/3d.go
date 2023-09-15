@@ -1,5 +1,5 @@
-package Shape3D
+package shape
 
-type Shape3D interface {
+type Spatial interface {
 	Volume() float64
 }

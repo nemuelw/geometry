@@ -1,6 +1,6 @@
-package Shape2D
+package shape
 
-type Shape2D interface {
+type Planar interface {
 	Perimeter() float64
 	Area() float64
 }
