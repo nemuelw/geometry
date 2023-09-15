@@ -1,3 +1,3 @@
 # geometry
 
-Go Package to perform operations on 2D and 3D shapes
+Go Package to perform operations on 2D and 3D geometric figures
