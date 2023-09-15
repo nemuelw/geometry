@@ -26,7 +26,20 @@ func main() {
     r := planar.NewRectangle(5, 4)
     c := spatial.NewCube(4)
 
-    fmt.Println(r.Area())   // 20.0
-    fmt.Println(c.Volume()) // 64.0
+    fmt.Println(r.Area())   // 20
+    fmt.Println(c.Volume()) // 64
 }
 ```
+
+## 2D Shapes (area, perimeter)
+
+- Circle
+- Square
+- Rectangle
+- Triangle
+
+## 3D Shapes (volume)
+
+- Cube
+- Cuboid
+- Cylinder
