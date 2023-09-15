@@ -26,8 +26,9 @@ func main() {
     r := planar.NewRectangle(5, 4)
     c := spatial.NewCube(4)
 
-    fmt.Println(r.Area())   // 20
-    fmt.Println(c.Volume()) // 64
+    fmt.Println(r.Area())      // 20
+    fmt.Println(r.Perimeter()) // 18
+    fmt.Println(c.Volume())    // 64
 }
 ```
 
