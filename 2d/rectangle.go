@@ -6,7 +6,7 @@ import (
 
 type Rectangle struct {
 	Length float64
-	Width float64
+	Width  float64
 }
 
 func NewRectangle(length, width float64) shape.Planar {
