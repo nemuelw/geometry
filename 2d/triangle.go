@@ -11,7 +11,7 @@ type Triangle struct {
 }
 
 func NewTriangle(side_a, side_b, side_c float64) shape.Planar {
-	return Triangle{SideA: side_a, SideB: side_c, SideC: side_c}
+	return Triangle{SideA: side_a, SideB: side_b, SideC: side_c}
 }
 
 func (t Triangle) Area() float64 {
