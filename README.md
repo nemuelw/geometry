@@ -10,6 +10,12 @@ Run this command in your project directory:
 go get github.com/nemzyxt/geometry
 ```
 
+## Testing
+
+```
+go test ./tests/...
+```
+
 ## Example
 
 ```
