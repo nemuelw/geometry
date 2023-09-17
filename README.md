@@ -50,3 +50,4 @@ func main() {
 - Cube
 - Cuboid
 - Cylinder
+- Sphere
